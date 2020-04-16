@@ -1,7 +1,7 @@
 # DD2_Team8
 
 Simple Python GUI created for our Y1 ICT Module.
-Objective: Allow users to view stalls opened & menu available at NTU's North Spine Food Court
+<br/>Objective: Allow users to view stalls opened & menu available at NTU's North Spine Food Court
 
 ## Features:
 1. View stalls opened & Menu available at current datetime

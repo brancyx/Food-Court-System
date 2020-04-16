@@ -1,0 +1,33 @@
+{"Chicken rice": {"Opening": 8, "Closing": 18, "Menu": {"Roasted Chicken Rice": [3.00,8,18,7], "Curry Chicken Noodle": [3.00,8,18,2], "Thai Style Beancurd": [2.00,8,18,7], "Bean Sprout": [2.00,8,18,7],
+"Roasted Chicken Noodle": [3.00,8,18,6],
+"Lemon Chicken Rice": [3.00,8,18,7]}},
+
+"Indian Food": {"Opening": 8, "Closing": 18, "Menu": {"Nasi Bryani": [5.00,8,18,7], "Prata": [0.80,8,11,7], "Thosai": [1.20,8,11,7], "Masala Chicken": [2.40,8,18,7]}},
+
+"Mini Wok": {"Opening": 8, "Closing": 20, "Menu": {"Sambal Chicken Fried Rice": [3.80,8,20,7], "Salted Fish Fried Rice": [3.80,8,20,7], "Fried Rice with Prawn": [3.80,8,20,7], "Fried Rice with Fish Fillet": [3.80,8,20,3],
+"Chicken Fried Rice": [3.80,12,20,7], "Ginger and Onion Pork Rice": [4.50,8,20,3], "Black Pepper Chicken Rice": [4.20,8,20,7]}},
+
+"Pig Organ Soup": {"Opening": 8, "Closing": 18, "Menu": {"Mixed Pork Soup": [4.00,8,18,1], "Pig Liver Soup": [4.00,8,18,1], "Lean Meat Soup": [4.00,8,18,7], "Meat Ball Soup": [4.00,12,16,7],
+"Salted Veg Sliced Fish Soup": [3.80,8,18,7],
+"Assorted Soup": [3.80,8,18,7], "Bak Kut Teh": [4.20,8,18,7]}},
+
+"Western Food": {"Opening": 8, "Closing": 18, "Menu": {"Beef Steak": [4.00,8,18,1], "Chicken Chop": [4.00,8,18,1], "Chicken Cutlet": [4.00,8,18,7], "Fish and Chips": [4.00,12,16,7],
+"Beef Steak Rice": [3.80,8,18,7],
+"Chicken Chop Rice": [3.80,8,18,7], "Spaghetti w Chicken Cutlet": [4.20,8,18,7]}},
+
+"Xin Mei": {"Opening": 8, "Closing": 20, "Menu": {"Ban Mian": [3.00,8,20,7], "Chicken Chop": [3.00,8,20,7], "Chicken Cutlet": [3.00,8,20,3], "Fish and Chips": [3.50,8,20,4],
+"Beef Steak Rice": [3.50,12,18,7],
+"Chicken Chop Rice": [3.80,8,20,7], "Spaghetti w Chicken Cutlet": [3.80,8,20,7]}}}
+
+
+
+
+
+
+
+
+
+
+
+
+

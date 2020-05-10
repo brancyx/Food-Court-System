@@ -12,3 +12,10 @@ Simple Python GUI created for our Y1 ICT Module.
 - Main libraries used: Tkinter, PIL, pprint
 - Data of stalls stored in JSON file
 - TestCase.py uses unittest framework to automate testing
+
+## Examples:
+
+<img src="pictures/Home.png" width="400">
+<img src="pictures/Stalls.png" width="400">
+<img src="pictures/Menu.png" width="400">
+

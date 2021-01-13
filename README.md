@@ -1,4 +1,4 @@
-# DD2_Team8
+# Food Court System
 
 Simple Python GUI created for our Y1 ICT Module.
 <br/>Objective: Allow users to view stalls opened & menu available at NTU's North Spine Food Court
